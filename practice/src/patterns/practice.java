@@ -16,7 +16,7 @@ public class practice {
         System.out.println(b);
         int n=20;
         int sum =0;
-        for(int i=1;i<=n;i++){
+        for(int j1;i<=n;i++){
             if(i == i/2*2){
                 System.out.println("even +"+i);
                 sum+=i;
@@ -30,13 +30,13 @@ public class practice {
 
 
         int a = 5;
-        int b = 4;
+        int c = 4;
 //       xor 1^1 = 0 , 1^0 = 0
-        a = a ^ b;
-        b = a ^ b;
-        a = a ^ b;
+        a = a ^ c;
+        c = a ^ c;
+        a = a ^ c;
         System.out.println(a);
-        System.out.println(b);
+        System.out.println(c);
 
     }
 }
