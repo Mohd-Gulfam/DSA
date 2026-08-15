@@ -1,4 +1,9 @@
 public class SumIntgerValue {
+    public static int singleDigit(int n){
+        int n =  893478;
+        int c = 1+(n-1) %9;
+        System.out.println(c);
+    }
 
     public static int sum(int nums) {
         int sum = 0;
