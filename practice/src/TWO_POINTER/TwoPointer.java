@@ -1,5 +1,6 @@
+package TWO_POINTER;
 
-    import java.util.Arrays;
+import java.util.Arrays;
 
     public class TwoPointer {
 
