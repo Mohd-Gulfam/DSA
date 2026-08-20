@@ -15,7 +15,7 @@ public class PrintPrimeNumber {
         return false;
     }
     public static void main(String[] args) {
-        int nums = 50;
+        int nums = 100;
         for (int i = 2; i <= nums; i++) {
             if(isPrime(i)){
                 System.out.println(i);
