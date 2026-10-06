@@ -1,4 +1,5 @@
-import java.util.*;
+package mathmatics;
+
 public class PrintPrimeNumber {
     public static boolean isPrime(int n){
         if (n <= 1){

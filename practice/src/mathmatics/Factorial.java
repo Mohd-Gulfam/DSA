@@ -1,3 +1,5 @@
+package mathmatics;
+
 public class Factorial {
     public static void main(String[] args) {
         int n = 5;
@@ -8,6 +10,6 @@ public class Factorial {
             factorial *= i;
         }
 
-        System.out.println("Factorial of " + n + " is: " + factorial);
+        System.out.println("mathmatics.Factorial of " + n + " is: " + factorial);
     }
 }

@@ -1,3 +1,5 @@
+package mathmatics;
+
 public class SumInteger {
 
 

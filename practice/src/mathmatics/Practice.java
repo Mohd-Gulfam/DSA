@@ -1,3 +1,5 @@
+package mathmatics;
+
 public class Practice {
 
 //    second maximum number

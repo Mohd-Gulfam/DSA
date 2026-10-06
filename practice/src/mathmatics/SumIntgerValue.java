@@ -1,3 +1,5 @@
+package mathmatics;
+
 public class SumIntgerValue {
 
     // Method to calculate the sum of digits
